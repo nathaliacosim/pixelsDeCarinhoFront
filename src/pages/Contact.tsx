@@ -14,12 +14,14 @@ function Contact() {
                     <p>Siga-nos nas redes sociais:</p>
                     <div className="social-icons">
                         <a
+                            target="_blank"
                             href="https://www.instagram.com/pixelsdecarinho/"
                             className="icon-link"
                         >
                             <FaInstagram className="icon" />
                         </a>
                         <a
+                            target="_blank"
                             href="https://www.facebook.com/pixelsdecarinho/"
                             className="icon-link"
                         >
@@ -30,6 +32,7 @@ function Contact() {
                     <div className="email">
                         <MdEmail className="email-icon" />
                         <a
+                            target="_blank"
                             href="mailto:pixelsdecarinho@gmail.com"
                             className="email-link"
                         >

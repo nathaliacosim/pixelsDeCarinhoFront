@@ -30,7 +30,7 @@ function Help() {
                         </p>
                         <br />
                         <div className="donate">
-                            <h3>Doações Financeiras através do Pix</h3>
+                            {/* <h3>Doações Financeiras através do Pix</h3>
                             <br />
                             <h4>Escaneie o QR Code abaixo:</h4>
                             <br />
@@ -47,7 +47,7 @@ function Help() {
                                 <strong>pixelsdecarinho@gmail.com</strong>
                             </p>
                             <br />
-                            <br />
+                            <br /> */}
                             <h3>Divulgue nas redes sociais!</h3>
                             <p>@pixelsdecarinho</p>
                             <br />
