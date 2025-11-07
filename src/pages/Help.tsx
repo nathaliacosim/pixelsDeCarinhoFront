@@ -1,6 +1,6 @@
 import PageContainer from "../components/PageContainer";
 import Paper from "../components/Paper";
-import Pix from "../assets/pix.jpeg";
+// import Pix from "../assets/pix.jpeg";
 import "./Help.css";
 
 function Help() {
